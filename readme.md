@@ -1,1 +1,3 @@
-# This is just a python exercise project
+# A Python project
+
+A python drilldown
