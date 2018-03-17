@@ -14,6 +14,7 @@ print persian_cow
 print backslash_cow
 print fat_cow
 
-while True:
-    for i in ["/", "-", "|", "\\", "|"]:
-        print "%s\r" % i,
+# while True:
+#     for i in ["/", "-", "|", "\\", "|"]:
+#         print "%s\r" % i,
+# I don't fucking understand this code just yet. Execute at your own peril
