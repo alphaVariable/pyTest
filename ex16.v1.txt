@@ -1,0 +1,3 @@
+Line 1
+Worth noting that line 1 was not written when the target.write executed. It's probably saving it into a buffer and doing a final savlose
+#TODO Look up how target write and close works.
